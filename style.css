@@ -1,0 +1,94 @@
+.cat1 {
+    
+padding: 50px;
+}
+
+.cat2 {
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.cat3 {
+    font-size: 25px;
+}
+
+.cat5 {
+    margin: 10px;
+    justify-content: center;
+    align-items: end;
+
+}
+
+.cat6 {
+    margin: 15px;
+}
+
+.cat7 {
+    border-radius: 50%
+    
+}
+
+
+h2  {
+    color: cadetblue;
+    text-align: center;
+}
+
+h3 {
+    color: cadetblue;
+}
+
+
+
+.meow {
+    justify-content: center;
+    text-align: center;
+    display: block;
+}
+
+.container {
+    justify-content: center;
+    align-items: center;
+}
+
+.parent {
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: repeat(1, 1fr);
+    width: 50%;
+    margin: 100px auto 0 auto;
+    text-align: left;
+    row-gap: 2rem;
+  }
+
+  .qwe {
+    display: block;
+    align-items: center;
+    text-align: center;
+  }
+
+  .btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: "Montserrat", sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+
+  .foterr {
+    background-color: antiquewhite;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-top: 30px;
+  
+
+  }
